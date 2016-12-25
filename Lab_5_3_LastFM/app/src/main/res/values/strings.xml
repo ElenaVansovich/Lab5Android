@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LastFM</string>
+
+    <string name="show_but">Show database</string>
+    <string name="search_but">Search artist</string>
+
+    <string name="search_label">Search artist</string>
+    <string name="search_view">Input artist:</string>
+    <string name="search_button">Search</string>
+</resources>

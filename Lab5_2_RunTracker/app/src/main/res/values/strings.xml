@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RunTracker</string>
+
+    <string name="start_view">Started:</string>
+    <string name="latitude_view">Latitude:</string>
+    <string name="longitude_view">Longitude:</string>
+    <string name="altitude_view">Altitude:</string>
+    <string name="elapsed_view">Elapsed Time:</string>
+
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+</resources>
